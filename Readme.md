@@ -88,13 +88,6 @@ project/
 
 ---
 
-## 🎨 Screenshots
-### Chat Interface
-| Desktop View                              | Mobile View                              |
-|------------------------------------------|------------------------------------------|
-| ![Desktop View](./readme-images/desktopVersion.png) | ![Mobile View](./readme-images//mobileVersion.jpg) |
-
----
 
 ## 📜 License
 This project is for educational purposes and is not licensed for commercial use.
